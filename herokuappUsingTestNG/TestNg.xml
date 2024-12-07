@@ -1,0 +1,15 @@
+
+<suit  name="suit" >
+    <test name="package">
+
+        <classes>
+
+            <class name="CheckLinktextANDLogin"/>
+            <class name="logout"/>
+
+        </classes>
+
+
+    </test>
+
+</suit>
